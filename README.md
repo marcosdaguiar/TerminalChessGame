@@ -8,7 +8,7 @@ The two player terminal chess game was made for practical purposes in Java. All 
 After each move, a saving feature was implemented. The game can be loaded after it is closed.
 
 
-### Dependencies
+### Verion
 
 Java 17.0.1
 
