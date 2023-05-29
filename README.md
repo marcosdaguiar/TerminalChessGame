@@ -29,11 +29,12 @@ Java 17.0.1
 
 ### DEMO
 New Game
-<img src='https://i.imgur.com/SSpSww6.gif' title ='New Game Quick Demo' width=200px />
-
+<br/>
+<img src='https://i.imgur.com/ZJWvXd9.gif' title ='New Game Quick Demo' width=800px />
 
 Loading a Game
-<img src='https://i.imgur.com/eWqSYTB.gif' title ='Load Game Quick Demo' width=200px />
+<br/>
+<img src='https://i.imgur.com/eWqSYTB.gif' title ='Load Game Quick Demo' width=800px />
 
 ## Authors
 Marcos Aguiar
