@@ -1,6 +1,6 @@
 # Terminal Chess Game
 
-A 2 player chess game played in the terminal.
+Two player chess game played in the terminal.
 
 ## Description
 
