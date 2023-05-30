@@ -11,7 +11,7 @@ After each move, a saving feature was implemented. The game can be loaded after 
 * Two Player
 * Save after each piece is moved
 * Load the last game
-* Constrains:
+* Constraints:
 	* A player can only select their pieces
 	* Each piece only moves in the direction according to each piece function
 	* When a "CHECK" is made, the king must be protected or moved to a safe spot
