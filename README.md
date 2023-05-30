@@ -35,11 +35,12 @@ Java 17.0.1
 ```
 
 ## DEMO
-###New Game
+
+New Game
 <br/>
 <img src='https://i.imgur.com/ZJWvXd9.gif' title ='New Game Quick Demo' width=800px />
 
-###Loading a Game
+Loading a Game
 <br/>
 <img src='https://i.imgur.com/eWqSYTB.gif' title ='Load Game Quick Demo' width=800px />
 
