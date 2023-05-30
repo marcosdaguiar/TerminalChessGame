@@ -10,7 +10,7 @@ After each move, a saving feature was implemented. The game can be loaded after 
 ## Features
 * Two Player
 * Save after each piece is moved
-* Load the last played moved
+* Load the last game
 * Constrains:
 	* A player can only select their pieces
 	* Each piece only moves in the direction according to each piece function
