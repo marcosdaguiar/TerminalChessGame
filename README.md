@@ -4,8 +4,7 @@ A 2 player chess game played in the terminal.
 
 ## Description
 
-The two player terminal chess game was made for practical purposes in Java. All the features and funtionality were hard coded. Contains restrictions to prevent a piece to be moved in the wrong spot.
-After each move, a saving feature was implemented. The game can be loaded after it is closed.
+The two player terminal chess game was made for practical purposes in Java. All the features and funtionality were hard coded. The game does not have a special GUI. The keyboard is used to play the game.
 
 ## Features
 * Two Player
@@ -17,8 +16,7 @@ After each move, a saving feature was implemented. The game can be loaded after 
 	* When a "CHECK" is made, the king must be protected or moved to a safe spot
 
 
-### Verion
-
+### Version
 Java 17.0.1
 
 
@@ -36,12 +34,12 @@ Java 17.0.1
 "YourPath"\TerminalChessGame-JAVA\src>java Game/main.java
 ```
 
-### DEMO
-New Game
+## DEMO
+###New Game
 <br/>
 <img src='https://i.imgur.com/ZJWvXd9.gif' title ='New Game Quick Demo' width=800px />
 
-Loading a Game
+###Loading a Game
 <br/>
 <img src='https://i.imgur.com/eWqSYTB.gif' title ='Load Game Quick Demo' width=800px />
 
